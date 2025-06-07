@@ -81,5 +81,6 @@ sudo docker --version
 
 You should see something like:
 ```
-Docker version 20.10.17, build 100c701
+Docker version 28.0.4, build b8034c0
+
 ```
